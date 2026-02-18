@@ -4,7 +4,7 @@
 
 <p align="center"> 
   something I like<br>
-  <img src="https://github.com/ArturDev00/ArturDev00/blob/main/Leet-img.png" width=180px/>
+  <img src="https://github.com/NovaDev00/NovaDev00/blob/main/Leet-img.png" width=180px/>
 </p>
 
 ## Hi there 👋, my name is Nova
